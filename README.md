@@ -2,6 +2,10 @@
 
 QA automation engineer (SDET) who also builds backend services, bots and AI-agent tooling.
 
+## About me
+
+I work in QA automation: I write tests, build test tooling and set up checks in CI. I like automating routine work, and I write Python services, bots and AI-agent tools both for work and for fun.
+
 ## What I work with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -18,12 +22,6 @@ QA automation engineer (SDET) who also builds backend services, bots and AI-agen
 - 🤖 AI agents, LLM tooling and automation
 - ⚙️ Backend services and bots in Python
 - 🎮 Graphics and game dev on the side (Vulkan, Unity)
-
-## Public projects
-
-- [webview_cef](https://github.com/de1mossss/webview_cef) — fork with CDP remote debugging, SwiftShader GPU and MSVC fixes
-- [Vulkan_3D_Viewer](https://github.com/de1mossss/Vulkan_3D_Viewer) — 3D viewer in C++ / Vulkan
-- [Cinema](https://github.com/de1mossss/Cinema) — educational C# project
 
 ## Contact
 
